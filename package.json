@@ -230,7 +230,7 @@
     "cross-env": "^5.2.0",
     "css-loader": "^1.0.0",
     "del": "^3.0.0",
-    "electron": "5.0.8",
+    "electron": "7.2.4",
     "electron-builder": "21.1.5",
     "electron-notarize": "^0.1.1",
     "electron-rebuild": "^1.8.5",
